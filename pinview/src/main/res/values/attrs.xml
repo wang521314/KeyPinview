@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PinView">
+        <attr name="pinBackground" format="reference" />
+        <attr name="pinLength" format="integer" />
+        <attr name="pinWidth" format="dimension" />
+        <attr name="pinHeight" format="dimension" />
+        <attr name="splitWidth" format="dimension" />
+        <attr name="cursorVisible" format="boolean" />
+        <attr name="password" format="boolean" />
+        <attr name="forceKeyboard" format="boolean" />
+    </declare-styleable>
+</resources>
